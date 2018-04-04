@@ -1,4 +1,4 @@
-#platform:ios,'8.0'
+platform:ios,'8.0'
 
 target 'UnitTestDemo' do
     pod 'AFNetworking', '~> 2.5.0'
