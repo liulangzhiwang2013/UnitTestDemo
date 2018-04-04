@@ -1,0 +1,44 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Kiwi (3.0.0)
+  - LRResty (0.11.0):
+    - NSData+Base64 (~> 1.0)
+  - NSData+Base64 (1.0.0)
+  - STAlertView (1.0.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5.0)
+  - Kiwi
+  - LRResty (~> 0.11.0)
+  - STAlertView (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
+  LRResty: 467e28055e87083e264cfff5a900818cc81a7e1e
+  NSData+Base64: 4e84902c4db907a15673474677e57763ef3903e4
+  STAlertView: bfcbdfed87dc7bfb35c04acd5d96aecebb923d48
+
+PODFILE CHECKSUM: 5dcaeb3cac84356754a20e5caff55bb7e665d038
+
+COCOAPODS: 1.4.0
